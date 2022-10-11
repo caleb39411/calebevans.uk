@@ -19,12 +19,18 @@ body {
   text-align: center;
 }
 
-h1 {
-  font-size: 2.5em;
-}
-
 img {
   border-radius: 50%;
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: 2;
+}
+
+p.licence {
+  font-size: 0.55em;
+  padding-top: 1em;
 }
 
 a {
