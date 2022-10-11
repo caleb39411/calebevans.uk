@@ -1,0 +1,28 @@
+:root {
+  --color-scheme-background: white;
+  --color-scheme-text-color: black;
+  --color-scheme-link-color: #1a0dab;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-scheme-background: black;
+    --color-scheme-text-color: white;
+    --color-scheme-link-color: #8ab4f8;
+  }
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--color-scheme-background);
+  color: var(--color-scheme-text-color);
+  text-align: center;
+}
+
+img {
+  float: center;
+}
+
+a {
+  color: var(--color-scheme-link-color);
+}
