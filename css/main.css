@@ -19,6 +19,10 @@ body {
   text-align: center;
 }
 
+h1 {
+  font-size: 2.5em;
+}
+
 img {
   border-radius: 50%;
 }
