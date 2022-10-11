@@ -21,6 +21,8 @@ body {
 
 img {
   float: center;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 a {
