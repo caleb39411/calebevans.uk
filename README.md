@@ -1,2 +1,2 @@
 # calebevans.uk
-Maybe I'll put something worthwhile on here someday.
+Maybe I'll put something worthwhile on here one day.
